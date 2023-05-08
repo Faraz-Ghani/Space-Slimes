@@ -16,9 +16,9 @@ Thanks for visiting do give it a try and let me know where I can improve.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Faraz-Ghani/MiniProjects/blob/main/Space%20Slimes%20Mobile/Screenshots/img%201.jpg)
+![App Screenshot](https://github.com/Faraz-Ghani/Space-Slimes/blob/main/Space%20Slimes%20Mobile/Screenshots/img%201.jpg)
 
-![App Screenshot2](https://github.com/Faraz-Ghani/MiniProjects/blob/main/Space%20Slimes%20Mobile/Screenshots/img%202.png)
+![App Screenshot2](https://github.com/Faraz-Ghani/Space-Slimes/blob/main/Space%20Slimes%20Mobile/Screenshots/img%202.png)
 
 
 ## Special Thanks To
