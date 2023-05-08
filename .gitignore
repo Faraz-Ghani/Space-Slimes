@@ -1,0 +1,245 @@
+Library
+logs
+obj
+Packages
+ProjectSettings
+Temp
+*.csproj
+
+UpgradeLog.htm
+Plugins
+UserSettings
+.vsconfig
+.vs
+*.meta
+Prototype 2/*
+LearnProject/*
+CarGame/*
+
+Endless/Build/Windows/Installer/Space Slime setup script.iss
+*.mat
+*.py
+*.pyc
+*.dll
+*.browser
+*.config
+*.aspx
+*.map
+*.ini
+Space Slimes AI/Build/Windows/x86/Space Slimes_Data/MonoBleedingEdge/etc/mono/config
+*.xml
+*.assets
+*.json
+*.resS
+Space Slimes AI/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/globalgamemanagers
+Space Slimes AI/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/level0
+Space Slimes AI/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/Resources/unity default resources
+Space Slimes AI/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/Resources/unity_builtin_extra
+*.cfg
+Space Slimes AI/venv/Scripts/pythonw.exe
+Space Slimes AI/venv/Scripts/python.exe
+Space Slimes AI/venv/Scripts/pip3.exe
+Space Slimes AI/venv/Scripts/pip3.11.exe
+Space Slimes AI/venv/Scripts/pip.exe
+Space Slimes AI/venv/Scripts/deactivate.bat
+Space Slimes AI/venv/Scripts/Activate.ps1
+Space Slimes AI/venv/Scripts/activate.bat
+Space Slimes AI/venv/Scripts/activate
+Space Slimes AI/venv/Lib/site-packages/setuptools/script.tmpl
+Space Slimes AI/venv/Lib/site-packages/setuptools/script (dev).tmpl
+Space Slimes AI/venv/Lib/site-packages/setuptools/gui.exe
+Space Slimes AI/venv/Lib/site-packages/setuptools/gui-arm64.exe
+Space Slimes AI/venv/Lib/site-packages/setuptools/gui-64.exe
+Space Slimes AI/venv/Lib/site-packages/setuptools/gui-32.exe
+Space Slimes AI/venv/Lib/site-packages/setuptools/cli.exe
+Space Slimes AI/venv/Lib/site-packages/setuptools/cli-arm64.exe
+Space Slimes AI/venv/Lib/site-packages/setuptools/cli-64.exe
+Space Slimes AI/venv/Lib/site-packages/setuptools/cli-32.exe
+Space Slimes AI/venv/Lib/site-packages/setuptools-65.5.0.dist-info/WHEEL
+Space Slimes AI/venv/Lib/site-packages/setuptools-65.5.0.dist-info/top_level.txt
+Space Slimes AI/venv/Lib/site-packages/setuptools-65.5.0.dist-info/REQUESTED
+Space Slimes AI/venv/Lib/site-packages/setuptools-65.5.0.dist-info/RECORD
+Space Slimes AI/venv/Lib/site-packages/setuptools-65.5.0.dist-info/METADATA
+Space Slimes AI/venv/Lib/site-packages/setuptools-65.5.0.dist-info/LICENSE
+Space Slimes AI/venv/Lib/site-packages/setuptools-65.5.0.dist-info/INSTALLER
+Space Slimes AI/venv/Lib/site-packages/setuptools-65.5.0.dist-info/entry_points.txt
+Space Slimes AI/venv/Lib/site-packages/pip/py.typed
+Space Slimes AI/venv/Lib/site-packages/pip/_vendor/vendor.txt
+Space Slimes AI/venv/Lib/site-packages/pip/_vendor/distlib/w64.exe
+Space Slimes AI/venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe
+Space Slimes AI/venv/Lib/site-packages/pip/_vendor/distlib/w32.exe
+Space Slimes AI/venv/Lib/site-packages/pip/_vendor/distlib/t64.exe
+Space Slimes AI/venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe
+Space Slimes AI/venv/Lib/site-packages/pip/_vendor/distlib/t32.exe
+Space Slimes AI/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem
+Space Slimes AI/venv/Lib/site-packages/pip-23.0.1.dist-info/WHEEL
+Space Slimes AI/venv/Lib/site-packages/pip-23.0.1.dist-info/top_level.txt
+Space Slimes AI/venv/Lib/site-packages/pip-23.0.1.dist-info/REQUESTED
+Space Slimes AI/venv/Lib/site-packages/pip-23.0.1.dist-info/RECORD
+Space Slimes AI/venv/Lib/site-packages/pip-23.0.1.dist-info/METADATA
+Space Slimes AI/venv/Lib/site-packages/pip-23.0.1.dist-info/LICENSE.txt
+Space Slimes AI/venv/Lib/site-packages/pip-23.0.1.dist-info/INSTALLER
+Space Slimes AI/venv/Lib/site-packages/pip-23.0.1.dist-info/entry_points.txt
+Space Slimes AI/venv/Lib/site-packages/distutils-precedence.pth
+Endless/Build/Andriod/Space Slimes_BurstDebugInformation_DoNotShip/tempburstlibs/armeabi-v7a/lib_burst_generated.txt
+Endless/Build/New folder/SpaceSlimes_BurstDebugInformation_DoNotShip/tempburstlibs/armeabi-v7a/lib_burst_generated.txt
+Endless/venv/Lib/site-packages/distutils-precedence.pth
+Endless/venv/Lib/site-packages/pio-0.0.3.dist-info/entry_points.txt
+Endless/venv/Lib/site-packages/pio-0.0.3.dist-info/INSTALLER
+Endless/venv/Lib/site-packages/pio-0.0.3.dist-info/LICENSE
+Endless/venv/Lib/site-packages/pio-0.0.3.dist-info/METADATA
+Endless/venv/Lib/site-packages/pio-0.0.3.dist-info/RECORD
+Endless/venv/Lib/site-packages/pio-0.0.3.dist-info/REQUESTED
+Endless/venv/Lib/site-packages/pio-0.0.3.dist-info/top_level.txt
+Endless/venv/Lib/site-packages/pio-0.0.3.dist-info/WHEEL
+Endless/venv/Lib/site-packages/pip-23.0.1.dist-info/entry_points.txt
+Endless/venv/Lib/site-packages/pip-23.0.1.dist-info/INSTALLER
+Endless/venv/Lib/site-packages/pip-23.0.1.dist-info/LICENSE.txt
+Endless/venv/Lib/site-packages/pip-23.0.1.dist-info/METADATA
+Endless/venv/Lib/site-packages/pip-23.0.1.dist-info/RECORD
+Endless/venv/Lib/site-packages/pip-23.0.1.dist-info/REQUESTED
+Endless/venv/Lib/site-packages/pip-23.0.1.dist-info/top_level.txt
+Endless/venv/Lib/site-packages/pip-23.0.1.dist-info/WHEEL
+Endless/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem
+Endless/venv/Lib/site-packages/pip/_vendor/distlib/t32.exe
+Endless/venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe
+Endless/venv/Lib/site-packages/pip/_vendor/distlib/t64.exe
+Endless/venv/Lib/site-packages/pip/_vendor/distlib/w32.exe
+Endless/venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe
+Endless/venv/Lib/site-packages/pip/_vendor/distlib/w64.exe
+Endless/venv/Lib/site-packages/pip/_vendor/vendor.txt
+Endless/venv/Lib/site-packages/pip/py.typed
+Endless/venv/Lib/site-packages/setuptools-65.5.0.dist-info/entry_points.txt
+Endless/venv/Lib/site-packages/setuptools-65.5.0.dist-info/INSTALLER
+Endless/venv/Lib/site-packages/setuptools-65.5.0.dist-info/LICENSE
+Endless/venv/Lib/site-packages/setuptools-65.5.0.dist-info/METADATA
+Endless/venv/Lib/site-packages/setuptools-65.5.0.dist-info/RECORD
+Endless/venv/Lib/site-packages/setuptools-65.5.0.dist-info/REQUESTED
+Endless/venv/Lib/site-packages/setuptools-65.5.0.dist-info/top_level.txt
+Endless/venv/Lib/site-packages/setuptools-65.5.0.dist-info/WHEEL
+Endless/venv/Lib/site-packages/setuptools/cli-32.exe
+Endless/venv/Lib/site-packages/setuptools/cli-64.exe
+Endless/venv/Lib/site-packages/setuptools/cli-arm64.exe
+Endless/venv/Lib/site-packages/setuptools/cli.exe
+Endless/venv/Lib/site-packages/setuptools/gui-32.exe
+Endless/venv/Lib/site-packages/setuptools/gui-64.exe
+Endless/venv/Lib/site-packages/setuptools/gui-arm64.exe
+Endless/venv/Lib/site-packages/setuptools/gui.exe
+Endless/venv/Lib/site-packages/setuptools/script (dev).tmpl
+Endless/venv/Lib/site-packages/setuptools/script.tmpl
+Endless/venv/Scripts/activate
+Endless/venv/Scripts/activate.bat
+Endless/venv/Scripts/Activate.ps1
+Endless/venv/Scripts/deactivate.bat
+Endless/venv/Scripts/pio.exe
+Endless/venv/Scripts/pip.exe
+Endless/venv/Scripts/pip3.11.exe
+Endless/venv/Scripts/pip3.exe
+Endless/venv/Scripts/python.exe
+Endless/venv/Scripts/pythonw.exe
+*.iss
+*.info
+Space Slimes AI/Build/Windows/x86/Space Slimes_Data/UnityCrashHandler32.exe
+Space Slimes AI/Assets/Sprites/Materials/2205_w026_n002_1983b_p1_1983.mat
+Space Slimes AI/Assets/Sprites/Materials/Background 2.mat
+Space Slimes AI/Assets/Sprites/Materials/Game_Background.mat
+*.config
+*.map
+Endless/Build/Windows/x86/Space Slimes_Data/MonoBleedingEdge/etc/mono/2.0/settings.map
+*.config
+*.txt
+Space Slimes PC/venv/Scripts/activate
+Space Slimes PC/venv/Scripts/activate.bat
+Space Slimes PC/venv/Scripts/Activate.ps1
+Space Slimes PC/venv/Scripts/deactivate.bat
+Space Slimes PC/venv/Scripts/pip.exe
+Space Slimes PC/venv/Scripts/pip3.11.exe
+Space Slimes PC/venv/Scripts/pip3.exe
+Space Slimes PC/venv/Scripts/python.exe
+Space Slimes PC/venv/Scripts/pythonw.exe
+*.tmpl
+Space Slimes PC/venv/Lib/site-packages/setuptools/gui.exe
+Space Slimes PC/venv/Lib/site-packages/setuptools/gui-arm64.exe
+Space Slimes PC/venv/Lib/site-packages/setuptools/gui-64.exe
+Space Slimes PC/venv/Lib/site-packages/setuptools/gui-32.exe
+Space Slimes PC/venv/Lib/site-packages/setuptools/cli.exe
+Space Slimes PC/venv/Lib/site-packages/setuptools/cli-arm64.exe
+Space Slimes PC/venv/Lib/site-packages/setuptools/cli-64.exe
+Space Slimes PC/venv/Lib/site-packages/setuptools/cli-32.exe
+Space Slimes PC/venv/Lib/site-packages/setuptools-65.5.0.dist-info/WHEEL
+Space Slimes PC/venv/Lib/site-packages/setuptools-65.5.0.dist-info/REQUESTED
+Space Slimes PC/venv/Lib/site-packages/setuptools-65.5.0.dist-info/RECORD
+Space Slimes PC/venv/Lib/site-packages/setuptools-65.5.0.dist-info/METADATA
+Space Slimes PC/venv/Lib/site-packages/setuptools-65.5.0.dist-info/LICENSE
+Space Slimes PC/venv/Lib/site-packages/setuptools-65.5.0.dist-info/INSTALLER
+Space Slimes PC/venv/Lib/site-packages/pip/py.typed
+Space Slimes PC/venv/Lib/site-packages/pip/_vendor/distlib/w64.exe
+Space Slimes PC/venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe
+Space Slimes PC/venv/Lib/site-packages/pip/_vendor/distlib/w32.exe
+Space Slimes PC/venv/Lib/site-packages/pip/_vendor/distlib/t64.exe
+Space Slimes PC/venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe
+Space Slimes PC/venv/Lib/site-packages/pip/_vendor/distlib/t32.exe
+Space Slimes PC/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem
+Space Slimes PC/venv/Lib/site-packages/pip-23.0.1.dist-info/WHEEL
+Space Slimes PC/venv/Lib/site-packages/pip-23.0.1.dist-info/REQUESTED
+Space Slimes PC/venv/Lib/site-packages/pip-23.0.1.dist-info/RECORD
+Space Slimes PC/venv/Lib/site-packages/pip-23.0.1.dist-info/METADATA
+Space Slimes PC/venv/Lib/site-packages/pip-23.0.1.dist-info/INSTALLER
+Space Slimes PC/venv/Lib/site-packages/distutils-precedence.pth
+Space Slimes PC/Build/Windows/x86/Space Slimes_Data/UnityCrashHandler32.exe
+Space Slimes PC/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/Resources/unity_builtin_extra
+Space Slimes PC/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/Resources/unity default resources
+Space Slimes PC/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/level0
+Space Slimes PC/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/globalgamemanagers
+Space Slimes PC/Build/Windows/x86/Space Slimes_Data/MonoBleedingEdge/etc/mono/config
+Space Slimes PC/Assets/Sprites/Materials/Game_Background.mat
+Space Slimes PC/Assets/Sprites/Materials/Background 2.mat
+Space Slimes PC/Assets/Sprites/Materials/2205_w026_n002_1983b_p1_1983.mat
+Space Slimes Mobile/Build/Windows/x86/Space Slimes_Data/MonoBleedingEdge/etc/mono/config
+Space Slimes Mobile/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/globalgamemanagers
+Space Slimes Mobile/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/level0
+Space Slimes Mobile/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/Resources/unity default resources
+Space Slimes Mobile/Build/Windows/x86/Space Slimes_Data/Space Slimes_Data/Resources/unity_builtin_extra
+Space Slimes Mobile/Build/Windows/x86/Space Slimes_Data/UnityCrashHandler32.exe
+Space Slimes PC/Assets/Scifi Guns SFX Pack/filelist.pdf
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun1.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun1_1.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun1_2.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun1_3.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun1_4.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun1_Load.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun2.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun2_1.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun2_2.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun2_4.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun3.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun3_1.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun3_2.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun3_3.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun3_4.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun3_load.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun4.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun4_1.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun4_2.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun4_3.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun4_4.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun4_load.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun5.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun5_1.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun5_2.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun5_3.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun5_4.wav
+Space Slimes PC/Assets/Scifi Guns SFX Pack/Gun5_Load.wav
+Space Slimes PC/Assets/Black & White Minimalist Business Logo-fotor-bg-remover-2023040618819.png
+GunMan/Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+GunMan/Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+GunMan/Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+GunMan/Assets/Miniature Army 2D V.1/Prefab/Thief.prefab
+GunMan/Assets/Miniature Army 2D V.1/Prefab/Soldier.prefab
+GunMan/Assets/Miniature Army 2D V.1/Prefab/Priest.prefab
+GunMan/Assets/Miniature Army 2D V.1/Prefab/Peasant.prefab
+GunMan/Assets/Miniature Army 2D V.1/Prefab/Merchant.prefab
+GunMan/Assets/Miniature Army 2D V.1/Prefab/Knight.prefab
+GunMan/Assets/Assets/Logos/Github Logo.png
+GunMan/Assets/Assets/Logos/Insta.png
+GunMan/Assets/Assets/Logos/Itch Io Logo.png
